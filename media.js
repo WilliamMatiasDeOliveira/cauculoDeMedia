@@ -10,7 +10,7 @@ function nota(){
     var artes = document.querySelector('#artes').value;
     var eduFis = document.querySelector('#eduFis').value;
     
-notas = [];
+
 notas.push(Number(mat));
 notas.push(Number(port));
 notas.push(Number(geo));
