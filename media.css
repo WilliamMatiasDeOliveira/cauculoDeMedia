@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+form{
+    background-color:bisque;
+    width: 210px;
+    margin: 0 auto;
+    padding: 20px;
+}
+input{
+    display: block;
+}
+#calcular{
+    width: 100px;
+    font-size: 20px;
+
+}
+#exibir{
+    font-size: 20px;
+    font-weight: bold;
+}
